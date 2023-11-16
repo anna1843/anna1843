@@ -14,7 +14,7 @@
 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anna1843&show_icons=true&theme=radical)
 
 
 
